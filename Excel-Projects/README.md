@@ -24,7 +24,7 @@ An interactive dashboard designed to analyse customer characteristics and identi
 - Bike_Sales_Dashboard.xlsx – Excel workbook containing the dashboard, working sheet, PivotTables and relevant formulas.
 
 ## Dashboard Preview
-![Bike Sales Dashboard](bike_sales_dashboard.png)
+![Bike Sales Dashboard](Excel-Projects/images/bike_sales_dashboard.png)
 
 # 2. Vrinda Store Annual Report 2022
 An interactive Excel dashboard analysing Vrinda Store's annual sales performance in 2022, with a focus on sales trends, customer demographics and order fulfilment.
@@ -47,5 +47,5 @@ An interactive Excel dashboard analysing Vrinda Store's annual sales performance
 - Vrinda_Store_Annual_Report_2022.xlsx – Excel workbook containing the dashboard, source data, PivotTables and PivotCharts.
 
 ## Dashboard Preview
-![Vrinda Store Dashboard](vrinda_dashboard_preview.png)
+![Vrinda Store Dashboard](Excel-Projects/images/vrinda_dashboard_preview.png)
 
